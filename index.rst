@@ -355,7 +355,7 @@ Analogue
     MCP3008, components/sensor/mcp3008, mcp3008.jpg, 8-channel ADC
     MCP3204 / MCP3208, components/sensor/mcp3204, mcp3204.jpg, 4-channel ADC
     Resistance, components/sensor/resistance, omega.svg, dark-invert
-    Seeed AC Voltage Sensor, components/seeed, seeed.png, AC Voltage
+    Seeed AC Voltage Sensor, components/seeed, seeed-studio.png, AC Voltage
 
 Bluetooth Low Energy (BLE)
 **************************
@@ -791,7 +791,7 @@ Switch Components
     Tuya Switch, components/switch/tuya, tuya.png
     UART Switch, components/switch/uart, uart.svg
     Home Assistant, components/switch/homeassistant, home-assistant.svg, dark-invert
-    Seeed 4-Channel SPDT Relay, components/seeed, seeed.png
+    Seeed 4-Channel SPDT Relay, components/seeed, seeed-studio.png
 
 Button Components
 -----------------
